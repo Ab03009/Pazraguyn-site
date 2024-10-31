@@ -1,0 +1,14 @@
+.form{
+    border: 3px solid lightblue;
+    height: 500px;
+    width: 500px;
+    background-color: lightblue;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+h1{
+   text-align: center;
+   
+}
